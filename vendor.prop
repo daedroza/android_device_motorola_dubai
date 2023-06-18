@@ -7,6 +7,7 @@ persist.vendor.camera.physical.num=4
 # Dolby
 persist.vendor.audio_fx.current=dolby
 ro.vendor.dolby.dax.version=DAX3_3.8.5.20_r1
+ro.vendor.audio.dolby.dax.support=true
 
 # Motorola
 ro.mot.build.customerid=global
