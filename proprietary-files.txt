@@ -370,6 +370,7 @@ product/lib64/libtensorflowlite_gpu_delegate.so|821bcbece27d47c49daac00a65fdf482
 
 # MotCamera4 - Permissions
 product/etc/permissions/com.motorola.camera3.content.ai.xml
+product/etc/permissions/com.motorola.camera3.dubai.xml
 product/etc/permissions/com.motorola.camera3.lens.xml
 product/etc/permissions/com.motorola.camera3.xml
 product/etc/permissions/deviceowner-configuration-com.motorola.camera3.xml
